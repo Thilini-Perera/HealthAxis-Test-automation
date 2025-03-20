@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit new user registration request for customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e452a2a-b7ae-49a5-ae37-e62ff8ec0a38</testCaseGuid>
+</TestCaseEntity>

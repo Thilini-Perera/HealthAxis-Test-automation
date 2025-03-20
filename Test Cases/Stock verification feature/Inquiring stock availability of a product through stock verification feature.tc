@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiring stock availability of a product through stock verification feature</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5e33f09-72d3-46b9-88f3-c6a17ec34cdc</testCaseGuid>
+</TestCaseEntity>

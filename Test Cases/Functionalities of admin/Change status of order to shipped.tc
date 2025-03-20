@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change status of order to shipped</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b84c9c72-4945-4cb4-b4d3-ca4cf34ec58a</testCaseGuid>
+</TestCaseEntity>

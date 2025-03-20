@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View details of delivered orders</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37f872ed-17aa-4d89-99a9-98c5aed0bf3f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View details of a placed order (pending order)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ee55233-da5b-43da-82ad-d594fd68d231</testCaseGuid>
+</TestCaseEntity>

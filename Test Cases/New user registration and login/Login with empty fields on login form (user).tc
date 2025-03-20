@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with empty fields on login form (user)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>496e910b-9fa5-4abb-9abf-6180a297f657</testCaseGuid>
+</TestCaseEntity>

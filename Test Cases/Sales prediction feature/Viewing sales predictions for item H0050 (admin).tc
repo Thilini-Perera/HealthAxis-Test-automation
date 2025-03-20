@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Viewing sales predictions for item H0050 (admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>310d2f11-92b7-4780-b200-a3d3a1c8087e</testCaseGuid>
+</TestCaseEntity>

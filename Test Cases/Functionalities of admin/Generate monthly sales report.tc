@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Generate monthly sales report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32b55072-cef7-4ec7-9ce4-d201a7c0a36c</testCaseGuid>
+</TestCaseEntity>

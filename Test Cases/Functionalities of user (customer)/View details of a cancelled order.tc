@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View details of a cancelled order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b9e166f-b8cc-40b9-a88e-bbcfc56d2780</testCaseGuid>
+</TestCaseEntity>

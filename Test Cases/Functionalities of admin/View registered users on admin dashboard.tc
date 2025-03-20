@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View registered users on admin dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41ea4e9e-b96d-4928-86b7-3a097440ed6e</testCaseGuid>
+</TestCaseEntity>

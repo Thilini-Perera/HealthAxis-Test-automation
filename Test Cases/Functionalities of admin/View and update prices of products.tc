@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View and update prices of products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a84a7b6e-4ed8-43eb-8de2-be8df62d0457</testCaseGuid>
+</TestCaseEntity>
